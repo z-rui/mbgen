@@ -1,0 +1,22 @@
+# vim: ft=yaml
+#
+---
+name: zm
+version: "1.2"
+sort: original
+use_preset_vocabulary: false
+columns:
+  - code
+  - text
+  - stem
+encoder:
+  rules:
+    - length_equal: 2
+      formula: "AaAbBaBb"
+    - length_equal: 3
+      formula: "AaBaBbCa"
+    - length_in_range: [4, 100]
+      formula: "AaBaCaDa"
+
+...
+
