@@ -1,0 +1,104 @@
+# GB2312 中收录的偏旁部首
+丨	I	AAA
+丬	TI	AAA
+丶	S	AAA
+丿	M	AAA
+亠	S	AAA
+亻	N	AAA
+冂	LD	AAA
+冖	WW	AAA
+冫	TD	AAA
+凵	ZI	AAA
+刂	KD	AAA
+勹	RY	AAA
+匚	H	AAA
+卩	Y	AAA
+厶	ZS	AAA
+囗	JD	AAA
+夂	RS	AAA
+宀	WD	AAA
+屮	ZI	AAA
+廴	Y	AAA
+廾	E	AAA
+彡	PD	AAA
+忄	U	AAA
+扌	D	AAA
+攵	MO	AAA
+氵	V	AAA
+灬	UO	AAA
+犭	QM	AAA
+疒	T	AAA
+礻	WS	AAA
+纟	Z	AAA
+肀	XB	AAA
+艹	E	AAA
+虍	IH	AAA
+衤	WT	AAA
+讠	S	AAA
+辶	W	AAA
+钅	P	AAA
+阝	Y	AAA
+饣	OX	AAA
+髟	CH	AAA
+
+# GBK 中收录的偏旁部首
+丅	AI	AAA
+耂	BM	AAA
+丆	G	AAA
+乑	GQ	AAA
+亅	I	AAA
+飠	OX	AAA
+釒	P	AAA
+釆	PF	AAA
+丷	UD	AAA
+乛	X	AAA
+癶	XS	AAA
+乚	Z	AAA
+糹	Z	AAA
+巜	ZD	AAA
+丩	ZI	AAA
+丱	ZI	AAA
+彑	ZM	AAA
+
+# GB18030 中收录的偏旁部首
+# 注意：不用 PUA 区的字符
+龷	EA	AAA
+龶	CI	AAA
+𡗗	CO	AAA
+𢦏	EH	AAA
+𠂇	GD	AAA
+⻊	JI	AAA
+⺌	KO	AAA
+⺮	M	AAA
+𠂉	MA	AAA
+⺧	MB	AAA
+龵	MD	AAA
+⺁	PD	AAA
+⺈	R	AAA
+⺗	U	AAA
+龹	UB	AAA
+⺷	UC	AAA
+⺶	UC	AAA
+⺻	XB	AAA
+龴	XS	AAA
+𠃌	Y	AAA
+⺄	YDA	AAA
+⺋	YYB	AAA
+龻	ZS	AAA
+# 组合偏旁
+龸	小 冖
+⺳	冖 八
+龺	十 早
+𤇾	火 火 冖
+⺪	X 止
+# 增补艹之形近根
+卝	E	AAA
+# 原为：丨 一 卜。但卝易与艹混
+
+# GB18030 以外的部件
+#㠯	Y	AAA
+#䒑	UA	AAA
+
+# 《规范字表》未收字
+𰻝	辶 穴 月 幺 言 幺 长 马 长 刂 心	# 𰻝(biang1)𰻞面
+𰻞	辶 穴 月 幺 言 幺 CH CU CH 刂 心	# 同

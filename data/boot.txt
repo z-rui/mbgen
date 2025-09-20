@@ -1,0 +1,6 @@
+short	short.txt
+chars	1.txt
+chars	2.txt
+chars	3.txt
+chars	gb2312.txt
+chars	ext.txt

@@ -1,0 +1,33 @@
+# 输入配置文件
+# 第1列为文件类型，第2列为文件名。
+
+# 说明
+# 凡是“列”，指的均是用TAB字符隔开的字段。
+# 空行以及#开头的行在输入文件中均被忽略。
+
+# short 简码表
+# 第1列为编码，第2列为对应的简码字/词。
+short	short.txt
+
+# chars 单字定义表
+# 第1列为单字符，第2列为以空格分隔的此字的拆解。
+# 拆解里的元素可以是另一个字或代码。程序会递归地把字拆成代码序列。
+# 部件的拆解只有一个代码元素。
+# 第3列（若有）：以A开头表示该字是首选成字主部件；以AAA开头表示该字是非成字部件。
+chars	1.txt
+chars	2.txt
+chars	3.txt
+chars	gb2312.txt
+chars	ext.txt
+
+# words 词组定义表
+# 第1列为词组
+words	words.txt
+#words	essay-zh-hans.txt
+
+chars	gbk.txt
+words	THUOCL_lishimingren.txt
+
+# alias 别名定义表，用来编码特殊符号等。
+# 第1列为输出文本，第2列为以空格分隔的此文本的名称。
+alias	emoji.txt
